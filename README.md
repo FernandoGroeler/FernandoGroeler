@@ -1,4 +1,5 @@
 ### Olá 👋
+#### Sou desenvolvedor sênior.
 
 - 🔭 Atualmente eu trabalho na empresa Ecocentauro Sistemas Inteligentes.
 - 🌱 Atualmente estou aprendendo tudo sobre .Net 5.
