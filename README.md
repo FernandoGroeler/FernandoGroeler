@@ -2,7 +2,7 @@
 #### Sou desenvolvedor sênior.
 
 - 🔭 Atualmente eu trabalho na empresa AMCom.
-- 🌱 Atualmente estou aprendendo tudo sobre .Net 6.
+- 🌱 Atualmente estou aprendendo tudo sobre .Net 7.
 - 💬 Pergumente sobre: .Net e SQL.
 - ⚡ Curiosidades: Pratico basquete.
 
