@@ -4,7 +4,6 @@
 - 🔭 Atualmente eu trabalho na empresa AMCom.
 - 🌱 Atualmente estou aprendendo tudo sobre .Net 6.
 - 💬 Pergumente sobre: .Net e SQL.
-- 📫 Fale comigo: [twitter.com/FernandoGroeler](https://twitter.com/FernandoGroeler)
 - ⚡ Curiosidades: Pratico basquete.
 
 <div>
@@ -54,7 +53,7 @@
 			<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 		</a>
 		<a href="https://www.microsoft.com/pt-br/sql-server/sql-server-2019" target="_blank" rel="noreferrer">
-			<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssqlserver" width="40" height="40"/>
+			<img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="mssqlserver" width="40" height="40"/>
 		</a>
 		<a href="https://dotnet.microsoft.com/pt-br/" target="_blank" rel="noreferrer">
 			<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="donet" width="40" height="40"/>
@@ -71,8 +70,8 @@
 		<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
 			<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
 		</a>
-		<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
-			<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" alt="jetbrains" width="40" height="40"/>
+		<a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
+			<img src="https://seeklogo.com/images/J/jetbrains-rider-logo-BC2E5310DB-seeklogo.com.png" alt="jetbrains" width="40" height="40"/>
 		</a>
 		<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 			<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
