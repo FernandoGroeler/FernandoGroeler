@@ -1,8 +1,8 @@
 ### Olá 👋
 #### Sou desenvolvedor sênior.
 
-- 🔭 Atualmente eu trabalho na empresa AMCom.
-- 🌱 Atualmente estou aprendendo tudo sobre .Net 7.
+- 🔭 Atualmente eu trabalho na empresa NAVA Technology for Business.
+- 🌱 Atualmente estou aprendendo tudo sobre .Net 8.
 - 💬 Pergumente sobre: .Net e SQL.
 - ⚡ Curiosidades: Pratico basquete.
 
